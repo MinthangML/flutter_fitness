@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fitness/pages/profile.dart';
 import 'package:flutter_fitness/services/support_widgets.dart';
 
 class Home extends StatefulWidget {
