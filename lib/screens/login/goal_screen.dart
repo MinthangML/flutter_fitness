@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_fitness/common/color_extension.dart';
 import 'package:flutter_fitness/common_widgets/round_button.dart';
-import 'package:flutter_fitness/screen/home/setting/setting_screen.dart';
-import 'package:flutter_fitness/screen/home/top_tab_view/top_tab_view_screen.dart';
-import 'package:flutter_fitness/screen/login/physique_screen.dart';
+import 'package:flutter_fitness/screens/home/setting/setting_screen.dart';
+import 'package:flutter_fitness/screens/home/top_tab_view/top_tab_view_screen.dart';
+import 'package:flutter_fitness/screens/login/physique_screen.dart';
 
 class GoalScreen extends StatefulWidget {
   const GoalScreen({super.key});

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_fitness/common/color_extension.dart';
 import 'package:flutter_fitness/common_widgets/round_button.dart';
 import 'package:flutter_fitness/common_widgets/round_text_field.dart';
-import 'package:flutter_fitness/screen/login/goal_screen.dart';
+import 'package:flutter_fitness/screens/login/goal_screen.dart';
 
 class NameScreen extends StatefulWidget {
   const NameScreen({super.key});
