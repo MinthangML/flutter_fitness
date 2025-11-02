@@ -32,7 +32,7 @@ class ReminderRow extends StatelessWidget {
                 height: 30,
                 child: Switch(
                   value: true,
-                  activeColor: TColor.primary,
+                  activeThumbColor: TColor.primary,
                   onChanged: (newVal) {},
                 ),
               ),

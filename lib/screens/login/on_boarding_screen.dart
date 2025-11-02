@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:flutter_fitness/common/color_extension.dart';
 import 'package:flutter_fitness/common_widgets/round_button.dart';
 import 'package:flutter_fitness/screens/login/sign_up_screen.dart';
